@@ -1,16 +1,21 @@
-## Hi there 👋
+infra
 
-<!--
-**MoyashiWithDevice/MoyashiWithDevice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Domains
+- https://www.mkeys.blog
 
-Here are some ideas to get you started:
+## Languages
+- PHP
+- C#
+- Java
+- Python
+- C (studying)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- FE
+- AP
+- NW
+- SC (studying)
+
+## Events & Conferences
+- MBSD Cybersecurity Challenges 2024 (6th)
+- ICT Conferences 2024, 2025 (As facilitator)
