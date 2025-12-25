@@ -15,7 +15,7 @@ infra
 - FE
 - AP
 - NW
-- SC (結果待ち)
+- SC
 - LPIC level 1 （勉強中）
 - TOEIC （勉強中）
 
