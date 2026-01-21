@@ -7,16 +7,14 @@ infra
 ## Languages
 - PHP
 - C#
-- Java
 - Python
-- C (勉強中)
 
 ## Certifications
-- FE
-- AP
-- NW
-- SC
-- LPIC level 1 （勉強中）
+- 基本情報
+- 応用情報
+- ネットワークスペシャリスト
+- 情報処理安全確保支援士
+- LPIC 101
 - TOEIC （勉強中）
 
 ## Events & Conferences
