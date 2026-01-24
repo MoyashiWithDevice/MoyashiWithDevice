@@ -1,4 +1,4 @@
-infra
+インフラ系
 
 ## Domains
 - https://www.mkeys.blog
@@ -15,6 +15,7 @@ infra
 - ネットワークスペシャリスト
 - 情報処理安全確保支援士
 - LPIC level 1
+
 - TOEIC （勉強中）
 
 ## Events & Conferences
