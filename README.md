@@ -16,8 +16,6 @@
 - 情報処理安全確保支援士
 - LPIC level 1
 
-- TOEIC （勉強中）
-
 ## Events & Conferences
 - MBSD Cybersecurity Challenges 2024 (6th)
 - MBSD Cybersecurity Challenges 2025 (2nd)
