@@ -6,8 +6,8 @@
 
 ## Languages
 1. Python
-2. PHP
-3. Javascript
+2. Javascript
+3. PHP
 
 ## Certifications
 - 基本情報
