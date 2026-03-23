@@ -2,12 +2,12 @@
 
 ## Domains
 - https://www.mkeys.blog
-- https://www.newvia.net
+- https://www.newvia.net (停止中)
 
 ## Languages
-- PHP
-- C#
-- Python
+1. Python
+2. PHP
+3. Javascript
 
 ## Certifications
 - 基本情報
