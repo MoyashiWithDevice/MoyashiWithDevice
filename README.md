@@ -1,7 +1,7 @@
 インフラ系
 
 ## Domains
-- https://www.mkeys.blog
+- https://www.mkeys.blog (停止中)
 - https://www.newvia.net (停止中)
 
 ## Languages
