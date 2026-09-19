@@ -3,5 +3,6 @@
 - https://www.mkeys.blog/
 - https://gitlab.newvia.net/bababa
 - https://speakerdeck.com/bababa0407
+- https://zenn.dev/bababa
 
 Golang, Python
